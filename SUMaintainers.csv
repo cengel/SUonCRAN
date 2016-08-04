@@ -3,11 +3,13 @@
 "akmeans","Adaptive Kmeans algorithm based on threshold","Jungsuk Kwac <kwjusu1@stanford.edu>"
 "allan","Automated Large Linear Analysis Node","Alan Lee <alanlee@stanfordalumni.org>"
 "argparse","Command line optional and positional argument parser.","Trevor L Davis <trevor.l.davis@stanford.edu>"
+"ASSISTant","Adaptive Subgroup Selection in Group Sequential Trials","Balasubramanian Narasimhan <naras@stat.Stanford.EDU>"
 "biom","An interface package (beta) for the BIOM file format.","Paul J. McMurdie <mcmurdie@stanford.edu>"
 "cate","High Dimensional Factor Analysis and Confounder Adjusted Testing
 and Estimation","Qingyuan Zhao <qyzhao@stanford.edu>"
 "CBPS","Covariate Balancing Propensity Score","Christian Fong <christianfong@stanford.edu>"
 "clogitL1","Fitting exact conditional logistic regression with lasso and<U+000a>elastic net penalties.","Stephen Reid <sreid@stanford.edu>"
+"COCONUT","COmbat CO-Normalization Using conTrols (COCONUT)","Timothy E Sweeney <tes17@alumni.stanford.edu>"
 "COMMUNAL","Robust Selection of Cluster Number K","Albert Chen <acc2015@stanford.edu>"
 "covTest","Computes covariance test for adaptive linear modelling","Rob Tibshirani <tibs@stanford.edu>"
 "cubature","Adaptive multivariate integration over hypercubes","Balasubramanian Narasimhan <naras@stat.stanford.edu>"
@@ -66,7 +68,6 @@ lasso regularization","Noah Simon <nsimon@stanford.edu>"
 "sglr","An R package for power and boundary calculations in
 pre-licensure vaccine trials using a sequential generalized
 likelihood ratio test","Balasubramanian Narasimhan <naras@stat.stanford.edu>"
-"shuffle","The shuffle estimator for explainable variance","Yuval Benjamini <yuvalben@stanford.edu>"
 "sisVIVE","Some Invalid Some Valid Instrumental Variables Estimator","Hyunseung Kang <hskang@stanford.edu>"
 "SLOPE","Sorted L1 Penalized Estimation (SLOPE)","Evan Patterson <epatters@stanford.edu>"
 "softImpute","Matrix Completion via Iterative Soft-Thresholded SVD","Trevor Hastie <hastie@stanford.edu>"
