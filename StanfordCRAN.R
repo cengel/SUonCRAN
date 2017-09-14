@@ -1,5 +1,5 @@
 # Get Stanford package maintainers on CRAN
-# ce - 2010-03-08
+# ce - 2016-03-08
 
 library(httr)
 library(ggplot2)
@@ -19,7 +19,7 @@ CRANmaint <- do.call("rbind", sapply(packages, function(p) getPTM(p), simplify =
 ### 1. List Stanford only and their packages:
 su <- CRANmaint[grep("stanford", tolower(CRANmaint$maintainer)),]
 su[order(su$package),]
-#write.csv(su[order(su$package),], "SUMaintainers.csv", row.names = F)
+# write.csv(su[order(su$package),], "SUMaintainers.csv", row.names = F)
 
 ### 2. Find all *.edu to see where/if Stanford ranks /in the top
 # helper to get last element in a string
